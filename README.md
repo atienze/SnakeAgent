@@ -37,8 +37,8 @@ Visualization utilities.
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/atienze/SnakeAgent.git](https://github.com/atienze/SnakeAgent.git)
-    cd snake-ai-pytorch
+    git clone https://github.com/atienze/SnakeAgent.git SnakeAgent
+    cd SnakeAgent
     ```
 
 2.  **Create and Activate Conda Environment**
